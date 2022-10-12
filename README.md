@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HuizheDi
 - 👀 I’m interested in marine seismology
 - 🌱 I’m currently learning the elastic full waveform inversion and deep learning in seismology
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on seismic imaging on Mid-Ocean Ridges.
+- 📫 Connect me via dihuizhe@scsio.ac.cn ...
 
 <!---
 HuizheDi/HuizheDi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
