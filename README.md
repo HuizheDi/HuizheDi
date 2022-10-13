@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HuizheDi
+- 👋 Hi, I’m @HuizheDi, a PhD student of South China Sea Institute of Oceanology, Chinese Academy of Sciences
 - 👀 I’m interested in marine seismology
 - 🌱 I’m currently learning the elastic full waveform inversion and deep learning in seismology
 - 💞️ I’m looking to collaborate on seismic imaging on Mid-Ocean Ridges.
@@ -11,21 +11,15 @@ You can click the Preview link to take a look at your changes.
 
 
 
-### Hi there
-I'm Lilian Lee 李琳, a Content Strategist | Senior Technical Writer.
+### Hi there      
 
-I love photography  , traveling ✈️, cooking and enjoying delicious food   ([a Lv7 VIP at Dianping 大众点评](https://m.dianping.com/userprofile/121632876)).
+ ![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilin90&show_icons=true&theme=tokyonight)
 
- And I love fruit very much.        
-8
- 9 ![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilin90&show_icons=true&theme=tokyonight)
-10
-11
-12 ### My side projects
-13
-14 1. Collecting and sharing awesome resources about technical communication (tech comm):
-15
-16     [![Awesome Technical Communication](https://github-readme-stats.vercel.app/api/pin?username=lilin90&repo=awesome-technical-communication&theme=radical)](https://github.com/lilin90/awesome-technical-communication)
+ ### My side projects
+
+ 1. Collecting and sharing awesome resources about technical communication (tech comm):
+
+     [![Awesome Technical Communication](https://github-readme-stats.vercel.app/api/pin?username=lilin90&repo=awesome-technical-communication&theme=radical)](https://github.com/lilin90/awesome-technical-communication)
 17
 18     > **Note:** Currently, this project includes tech comm resources in both English and Chinese.
 19
