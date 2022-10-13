@@ -13,7 +13,7 @@
 
  [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/HuizheDi)
  [![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/da-de-qu-ai-ji-dhz)
- [![微信](https://img.shields.io/badge/微信公众号-white?logo=wechat)](https://res.cloudinary.com/lilian-photos/image/upload/v1585391408/cover/wechat-qrcode-scan-to-follow.jpg)
+ [![微信](https://img.shields.io/badge/微信-white?logo=wechat)](https://res.cloudinary.com/lilian-photos/image/upload/v1585391408/cover/wechat-qrcode-scan-to-follow.jpg)
 
 
 <!---
