@@ -13,7 +13,8 @@
 
 ### Get in touch
  
- - 📫 Connect me via dihuizhe@scsio.ac.cn ...
+ - 📫 Connect me via dihuizhe@scsio.ac.cn
+ - 
  [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/HuizheDi)
  [![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/da-de-qu-ai-ji-dhz)
  [![微信](https://img.shields.io/badge/微信-white?logo=wechat)](18813175977)
