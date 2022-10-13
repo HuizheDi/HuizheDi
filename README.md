@@ -7,7 +7,7 @@
 - 📫 Connect me via dihuizhe@scsio.ac.cn ...
      
 
- ![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilin90&show_icons=true&theme=tokyonight)
+ ![Huizhe Di's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilin90&show_icons=true&theme=tokyonight)
 
  ### My side projects
 
