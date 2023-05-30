@@ -1,6 +1,6 @@
 ### Hi there 
 
-- 👋 Hi, I’m @HuizheDi, a PhD student of South China Sea Institute of Oceanology, Chinese Academy of Sciences
+- 👋 Hi, I’m @HuizheDi, a doctoral student of South China Sea Institute of Oceanology, Chinese Academy of Sciences
 - 👀 I’m interested in marine geology, especially in seismic structure of Mid-ocean ridges
 - 🌱 I’m currently learning the elastic full waveform inversion and deep learning in seismology
 - 💞️ I’m looking to collaborate on seismic imaging on Mid-Ocean Ridges
