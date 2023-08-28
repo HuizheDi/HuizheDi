@@ -13,7 +13,7 @@
 
 ### Get in Touch
  
- - 📫 Connect me via dihuizhe@scsio.ac.cn
+ - 📫 Connect me via dihuizhe2020@gmail.com
  - Phone number: +86 18813175977
  - QQ: 604700623
  - 
